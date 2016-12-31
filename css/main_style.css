@@ -1,0 +1,20 @@
+
+
+.navbar{
+  background-color: #000000;
+}
+
+.navbar-brand{
+  font-size: 26px;
+}
+
+
+body{
+  background: url(/graphics/StarField.png);
+  color: #ffffff;
+}
+
+.derp{
+  background-color: #000000;
+  color: #ffffff;
+}
